@@ -1,5 +1,9 @@
 # How Inkling 2 Small Cut This Video
 
+Status: LOCAL ONLY — historical run report, not independently verified here; next human action: provide the original response, picks and recap artifacts to verify the reported result.
+
+The measurements and interpretations below are preserved from the original report. Its named picks, request/response logs, keyframes and output video are not bundled or linked here. The 109-second/16-segment result, token counts, cost and model-quality conclusions are **unverified historical claims**, not proof supplied by this checkout.
+
 **Date:** 13 November 2026
 **Event:** Cafe Cursor Shanghai, Sunday 19 July 2026
 **Model:** Thinking Machines Inkling 2 Small, via Tinker
@@ -91,7 +95,7 @@ The transcripts were mostly hallucinated. Whisper rendered crowd noise as speech
 
 ## What this proves, and what it does not
 
-It proves that a vision-language model can pick a coherent 2-minute recap from stills and a prompt, for about three cents, without ever seeing the video. The picks are sensible, the product moments are sharp, and the structure (arrival, setup, talks, demos, laughter, front-of-house) holds together.
+The original report interpreted this as a vision-language model picking a coherent 2-minute recap from stills and a prompt for about three cents. Its assessment was that the picks were sensible, the product moments sharp, and the structure (arrival, setup, talks, demos, laughter, front-of-house) coherent. Without the original artifacts, those conclusions cannot be independently verified here.
 
 It does not prove the model understands the event. It never heard the talks, never saw a moving shot, and never felt the room. It picked from 66 stills. It missed nothing that was in the pictures, but it could not know what was between them. That is why the loop keeps a human in it: the model proposes, a person approves, and the approved picks become training data for the next round.
 

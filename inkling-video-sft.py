@@ -16,8 +16,9 @@ Usage:
   uv run inkling-video-sft.py            # uses inkling-video-picks.jsonl
   INKLING_PICKS_PATH=other.jsonl uv run inkling-video-sft.py
 
-Adapted from the official first-training.py, which already ran on this machine
-(loss 0.9471 -> 0.0006, 10 steps, checkpoint first-sft). Same shape, new data:
+Adapted from the official first-training.py, with a reported historical run
+(loss 0.9471 -> 0.0006, 10 steps, checkpoint first-sft; source logs/checkpoint
+not bundled or independently verified here). Same shape, new data:
 base model thinkingmachines/Inkling-2-Small, LoRA rank 16, train only on the
 answer tokens (prompt weight 0, answer weight 1).
 

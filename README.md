@@ -1,5 +1,7 @@
 # Ripple
 
+Status: LOCAL ONLY — command-line scripts, no hosted product verified; next human action: provide source footage and approved picks to run the local pipeline (Tinker access is needed for model picking/training).
+
 Cut videos with Inkling 2 Small on Tinker. Built for the Cafe Cursor Shanghai recap, July 2026.
 
 ## The loop
